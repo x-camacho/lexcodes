@@ -5,13 +5,11 @@ import Email from '../../assets/email.png'
 import Address from '../../assets/address.png'
 
 const Contact = () => {
-    const formRef = useRef
+    const formRef = useRef()
 
     const handleSubmit = (e) => {
-        e.preventDefault()
-        
+        e.preventDefault()  
     }
-
   return (
     <div className='c'>
         <div className="c-bg"></div>
