@@ -1,7 +1,10 @@
+
 .a{
     height: 100vh;
     display: flex;
     align-items: center;
+    font-family: 'Exo', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .a-left {

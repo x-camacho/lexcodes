@@ -5,6 +5,8 @@
     border: 2px solid rgb(243, 242, 242);
     border-radius: 10px 10px 0px 0px;
     overflow: hidden;
+    font-family: 'Exo', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .p-browser {

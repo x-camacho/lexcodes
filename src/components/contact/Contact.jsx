@@ -31,15 +31,15 @@ const Contact = () => {
         <div className="c-bg"></div>
             <div className="c-wrapper">
                 <div className="c-left">
-                    <h1 className="c-title">Let's Discuss your Project!</h1>
+                    <h1 className="c-title">Let's collab, send me a msg.</h1>
                     <div className="c-info">
                         <div className="c-info-item">
                             <img src={Phone} alt="" className="c-icon" />
-                            +1 123-456-7890 
+                            Send me msg and we'll connect!
                         </div>
                         <div className="c-info-item">
                             <img src={Email} alt="" className="c-icon" />
-                            lexcodes@gmail.com
+                            admin@lexcodes.io
                         </div>
                         <div className="c-info-item">
                             <img src={Address} alt="" className="c-icon" />
@@ -49,7 +49,7 @@ const Contact = () => {
                 </div>
                 <div className="c-right">
                     <p className="c-desc">
-                        <b>What's going on?</b>  Let's collaborate on a project together!
+                        <b>What's up?</b>  Let's collaborate on a project!
                     </p>
                     <form ref={formRef} onSubmit={handleSubmit}>
                         <input style={{backgroundColor: darkMode && "#333"}}  type="text" placeholder='Name' name='user_name'/>

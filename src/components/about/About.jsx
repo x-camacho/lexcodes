@@ -18,10 +18,10 @@ const About = () => {
         <div className="a-right">
             <h1 className="a-title">About Me</h1>
             <p className="a-sub">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                After a decade of experience in Facilities and Energy Management, Xavier felt something calling to him.  His life-long curiosity with computers, technology, programming, and just outright creating things from thin air, fueling his pursuit toward a new direction. 
             </p>
             <p className="a-desc">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, neque consequatur.  
+                Always looking to learn and nurture his creativity - Xavier enrolled in a Software Engineering bootcamp with General Assembly, looking to turn his passion into an occupation. 
             </p>
             <div className="a-award">
                 <img 

@@ -7,9 +7,9 @@ const ProductList = () => {
    return (
      <div className='pl'>
         <div className="pl-texts">
-            <h1 className="pl-title">Make and Do. Its X</h1>
+            <h1 className="pl-title">A few projects that got done. Always a work in progress...</h1>
             <p className="pl-desc">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+                Utilizing tech stacks like NEM and MERN - always having fun with JavaScript and React, but I don't mind dabbling in Python and mySQL. 
             </p>
         </div>
         <div className="pl-list">

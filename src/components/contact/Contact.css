@@ -1,6 +1,8 @@
 .c {
     height: 100vh;
     position: relative;
+    font-family: 'Exo', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .c-bg {
@@ -89,6 +91,8 @@ button {
 
     .c-title {
         font-size: 30px;
+        width: 100%;
+
     }
 
     .c-info-item {

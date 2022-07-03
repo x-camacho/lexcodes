@@ -6,18 +6,18 @@ const Intro = () => {
     <div className='i'>
         <div className='i-left'>
             <div className="i-left-wrapper">
-                <h2 className="i-intro">Hi! My name is</h2>
-                <h1 className="i-name">Xavier "Lex" Camacho</h1>
+                <h2 className="i-intro">Hey, Thanks for dropping by.</h2>
+                <h1 className="i-name">I'm Xavier and this is my portfolio!</h1>
                 <div className="i-title">
                     <div className="i-title-wrapper">
-                        <div className="i-title-item">Web Developer</div>
+                        <div className="i-title-item">Software Developer</div>
                         <div className="i-title-item">Energy Manager</div>
-                        <div className="i-title-item">Facilities Leader</div>
-                        <div className="i-title-item">Crypto Enthusiast</div>
+                        <div className="i-title-item">Facilities Manager</div>
+                        <div className="i-title-item">Average Snowboarder</div>
                     </div>
                 </div>
                 <p className="i-desc">
-                    Software Engineer building things in React, Gatsby, and other tech.  Love learning and creating new things.
+                    Software Developer who uses JavaScript and React.  Stays on the infinite path of learning and improvement.
                 </p>
             </div>
             <svg 
