@@ -77,6 +77,8 @@
     margin-bottom: 10px;
 }
 
+/** responsive design for Iphone <12 breakpoints **/
+
 @media screen and (max-width: 480px) {
     .a{
         flex-direction: column;
@@ -101,6 +103,8 @@
     }
     
 }
+
+/** Responsive design for Iphone 12 pro **/
 
 @media screen and (max-width: 800px) {
     .a{
