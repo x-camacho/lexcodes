@@ -42,3 +42,18 @@
     }
     
 }
+
+@media screen and (max-width: 768px) {
+    .pl {
+        padding: 10px;
+    }
+
+    .pl-texts {
+        width: 100%;
+    }
+
+    .pl-desc {
+        margin: 20px 0px;
+    }
+    
+}
