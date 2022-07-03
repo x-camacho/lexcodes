@@ -5,6 +5,7 @@
     align-items: center;
     font-family: 'Exo', sans-serif;
     font-family: 'Montserrat', sans-serif;
+
 }
 
 .a-left {
@@ -97,6 +98,16 @@
 
     .a-right {
         padding: 20px;  
+    }
+    
+}
+
+@media screen and (max-width: 800px) {
+    .a{
+        flex-direction: column;
+        text-align: center;
+        margin-top: 50px;
+        margin-top: 45%;
     }
     
 }
