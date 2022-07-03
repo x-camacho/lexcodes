@@ -8,7 +8,7 @@
 .c-bg {
     width: 20px;
     height: 100%;
-    background-color: grey;
+    background: linear-gradient(100deg,rgb(186, 213, 218),rgba(63, 63, 63, 0.8));
     position: absolute;
 }
 
