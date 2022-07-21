@@ -17,7 +17,7 @@ const Intro = () => {
                     </div>
                 </div>
                 <p className="i-desc">
-                    Software Developer who uses JavaScript and React.  Stays on the infinite path of learning and improvement.
+                    JavaScript and React developer staying on the infinite path of learning and self-improvement.
                 </p>
             </div>
         </div>
